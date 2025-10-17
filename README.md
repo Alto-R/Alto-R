@@ -1,4 +1,6 @@
-Hi 👋, this is Churui Huang (黄楚睿).
+Hi 👋, this is Churui Huang.
+
+🏫 I am a current postgraduate student at Peking University.
 
 🌱 I am interested in smart city and big data.
 
