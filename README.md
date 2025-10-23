@@ -1,4 +1,4 @@
-Hi 👋, this is Churui Huang.
+### Hi 👋, this is Churui Huang.
 
 🏫 I am a current postgraduate student at Peking University.
 
