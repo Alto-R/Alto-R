@@ -4,4 +4,5 @@
 
 🌱 My research interests are in smart cities and big data, with a current focus on convex optimization and reinforcement learning, aiming to leverage these techniques to build more intelligent and efficient urban systems.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alto-R&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alto-R&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats-eight-theta.vercel.app/api?username=CompEng0001&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true
