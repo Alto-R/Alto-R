@@ -13,7 +13,9 @@
 ### 📚 Selected Research
 
 **🌍 A Global Feasibility Gap in Resilient Island Energy Transitions**
+
 *Nature Communications*, 2026
+
 A global assessment of 1,830 inhabited islands shows that affordability limits, climate-resilience costs and uneven technology learning leave many island energy transitions economically infeasible without targeted support.
 
 📄 **[Read the paper](https://www.nature.com/articles/s41467-026-75606-4)**
