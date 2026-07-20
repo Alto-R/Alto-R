@@ -10,7 +10,7 @@
 
 ---
 
-### 📚 Selected Research
+### 📚 Research Highlights
 
 **🌍 A Global Feasibility Gap in Resilient Island Energy Transitions**
 
