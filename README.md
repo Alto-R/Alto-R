@@ -12,9 +12,7 @@
 
 ### 📚 Research Highlights
 
-**🌍 A Global Feasibility Gap in Resilient Island Energy Transitions**
-
-*Nature Communications*, 2026, *First author*
+🌍 **Huang, C.**, Zhang, H. & Yan, J. A global feasibility gap in resilient island energy transitions. *Nat Commun* (2026). https://doi.org/10.1038/s41467-026-75606-4
 
 A global assessment of 1,830 inhabited islands shows that affordability limits, climate-resilience costs and uneven technology learning leave many island energy transitions economically infeasible without targeted support.
 
