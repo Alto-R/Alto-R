@@ -16,7 +16,5 @@
 
 A global assessment of 1,830 inhabited islands shows that affordability limits, climate-resilience costs and uneven technology learning leave many island energy transitions economically infeasible without targeted support.
 
-📄 **[Read the paper](https://www.nature.com/articles/s41467-026-75606-4)**
-
 
 [![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alto-R&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
