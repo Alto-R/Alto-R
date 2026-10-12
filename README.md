@@ -14,7 +14,7 @@
 
 🌍 **Huang, C.**, Zhang, H. & Yan, J. A global feasibility gap in resilient island energy transitions. *Nat Commun* (2026). https://doi.org/10.1038/s41467-026-75606-4
 
-A global assessment of 1,830 inhabited islands shows that affordability limits, climate-resilience costs and uneven technology learning leave many island energy transitions economically infeasible without targeted support.
+🌍 **Huang, C.**, Yu, Q., Xu, X., Zhang, M. & Zhang, H. Solar potential and deployment archetypes of electric vehicle integrated photovoltaics in urban fleets. *Sustainable Cities and Society* 151, 107941 (2026). https://doi.org/10.1016/j.scs.2026.107941
 
 
 [![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alto-R&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
