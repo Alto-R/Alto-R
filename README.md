@@ -17,4 +17,4 @@
 🌍 **Huang, C.**, Yu, Q., Xu, X., Zhang, M. & Zhang, H. Solar potential and deployment archetypes of electric vehicle integrated photovoltaics in urban fleets. *Sustainable Cities and Society* 151, 107941 (2026). https://doi.org/10.1016/j.scs.2026.107941
 
 
-[![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alto-R&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://ggithub-stats-extended.vercel.app/api/top-langs/?username=Alto-R&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-stats-extended)
